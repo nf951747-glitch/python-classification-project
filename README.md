@@ -1,7 +1,6 @@
 # Python Data Classification Project
 
-A machine learning classification project developed in Python using the Iris dataset. The project demonstrates the complete machine learning workflow, including data loading, preprocessing, model training, evaluation, and performance analysis using the K-Nearest Neighbors (KNN) algorithm.
-
+This project implements a K-Nearest Neighbors (KNN) classifier to classify Iris flower species using the Scikit-learn Iris dataset. The project includes data preprocessing, feature scaling, model training, evaluation, and performance analysis using a confusion matrix and classification report.
 ---
 
 ## Features
