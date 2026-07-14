@@ -104,7 +104,7 @@ The output also includes:
 
 ## Screenshot
 
-The following screenshot shows the project structure, execution, and evaluation results.
+<img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/d096adcb-36b6-4dfe-99ff-a657350ccd81" />
 
 
 
